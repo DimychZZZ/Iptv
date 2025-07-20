@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://iptvx.one/epg/epg.xml.gz
+#EXTM3U
 #EXTINF:-1,Соловьёв live
 http://31.41.97.138:81/udp/225.0.55.11:1234
 #EXTINF:-1,Новороссия ТВ HD
